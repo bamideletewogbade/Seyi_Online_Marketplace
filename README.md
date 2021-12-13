@@ -18,4 +18,15 @@ Objectives:
 
 3. To overcome restrictions on interborder currency flow via the seamless adoption of cryptocurrency.
 
-Prototypes(UI/UX): ![Prototype Images](https://user-images.githubusercontent.com/81900836/145795667-93630b39-ffcb-4969-8a2f-003d3309aba8.png)
+Prototypes(UI/UX): 
+![Welcome Screen](https://user-images.githubusercontent.com/81900836/145800208-41c5e0cc-0c6d-4e67-ba86-e8a6d1e88ad9.png)
+
+![signup_screen](https://user-images.githubusercontent.com/81900836/145800487-ef11326a-2bb8-49c6-aeb5-9a1b5b66b956.png)
+
+
+![login_screen](https://user-images.githubusercontent.com/81900836/145800514-6dd2e507-1f18-47ed-ac3d-ae0d93f19b0c.png)
+
+![Payment_Screen](https://user-images.githubusercontent.com/81900836/145800546-24f26cde-2265-44dc-8530-ad6a62797250.png)
+
+![Confirmation_Screen](https://user-images.githubusercontent.com/81900836/145800574-4ec9cbde-af84-4d6f-b424-7b2ae513a900.png)
+

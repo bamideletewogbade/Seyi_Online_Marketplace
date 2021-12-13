@@ -1,4 +1,4 @@
-# Seyi_Online_Marketplace
+# The_Online_Marketplace
 
 Team name: The Bishops'
 

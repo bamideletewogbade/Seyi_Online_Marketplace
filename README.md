@@ -1,6 +1,6 @@
 # Seyi_Online_Marketplace
 
-Team name: The Bishops
+Team name: The Bishops'
 
 Team members: 
 Modupeola Savage

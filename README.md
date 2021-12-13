@@ -5,7 +5,6 @@ Team name: The Bishops'
 Team members: 
 Modupeola Savage
 Tewogbade Bamidele
-Fatoki Temiloluwa
 
 Problem statement: Connecting MSMEs to clients on Online Marketplace and bridging interborder  currency discrepancies via adoption of Web3 using cryptocurrency
 
@@ -19,14 +18,19 @@ Objectives:
 3. To overcome restrictions on interborder currency flow via the seamless adoption of cryptocurrency.
 
 Prototypes(UI/UX): 
+
+Welcome_Screen
 ![Welcome Screen](https://user-images.githubusercontent.com/81900836/145800208-41c5e0cc-0c6d-4e67-ba86-e8a6d1e88ad9.png)
 
+Signup_Screen
 ![signup_screen](https://user-images.githubusercontent.com/81900836/145800487-ef11326a-2bb8-49c6-aeb5-9a1b5b66b956.png)
 
+Login_Screen
+![loginscreen](https://user-images.githubusercontent.com/81900836/145800514-6dd2e507-1f18-47ed-ac3d-ae0d93f19b0c.png)
 
-![login_screen](https://user-images.githubusercontent.com/81900836/145800514-6dd2e507-1f18-47ed-ac3d-ae0d93f19b0c.png)
-
+Payment_Screen
 ![Payment_Screen](https://user-images.githubusercontent.com/81900836/145800546-24f26cde-2265-44dc-8530-ad6a62797250.png)
 
+Confirmation Screen
 ![Confirmation_Screen](https://user-images.githubusercontent.com/81900836/145800574-4ec9cbde-af84-4d6f-b424-7b2ae513a900.png)
 
